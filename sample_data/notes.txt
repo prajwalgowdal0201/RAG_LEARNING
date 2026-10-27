@@ -1,0 +1,4 @@
+Meeting notes - project kickoff
+
+The team agreed to build a small RAG demo using ChromaDB.
+Next steps: collect documents, choose chunk sizes, and test retrieval quality.
